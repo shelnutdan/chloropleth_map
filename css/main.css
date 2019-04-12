@@ -1,0 +1,22 @@
+#title{
+ text-align: center;
+}
+
+#dataVisual{
+  width:1000px;
+  height:1000px;
+}
+
+
+.tooltip{
+  color:#000;
+  position:absolute;
+  background-color: grey;
+  text-align: center;
+  width: 150px;
+  height: 100px;
+  padding: 2px;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
