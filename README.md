@@ -2,7 +2,7 @@
 This project is a Technical Documentation created for the **Data Visualization Certificate** on [FreeCodeCamp](https://learn.freecodecamp.org/). This particular project uses the library D3.js to take educational about the united States and maps to corresponding United States counties.
 
 ## Live demo
-[//]: # (live demo goes here)
+[Live Demo](http://fearless-toy.surge.sh/)
 ## Skills
 - HTML5
 - CSS3
